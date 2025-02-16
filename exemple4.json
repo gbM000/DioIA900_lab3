@@ -1,0 +1,29 @@
+{
+    "documents": [
+        {
+            "id": "id__1535",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.96,
+                "neutral": 0.03,
+                "negative": 0.01
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.03,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 92,
+                    "text": "I can describe my experience of this game in two words: \"TECHNOLOGY RECHARGED!\" #bestdayever",
+                    "targets": [],
+                    "assessments": []
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

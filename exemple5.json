@@ -1,0 +1,42 @@
+{
+    "documents": [
+        {
+            "id": "id__1696",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.05,
+                "negative": 0.94
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.02,
+                        "negative": 0.98
+                    },
+                    "offset": 0,
+                    "length": 48,
+                    "text": "The cafeteria food is getting worse by the day. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.09,
+                        "negative": 0.9
+                    },
+                    "offset": 48,
+                    "length": 61,
+                    "text": "$15 for a plate of burger and fries does not seem subsidized.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ]
+        }
+    ],
+    "errors": []
+}
